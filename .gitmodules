@@ -1,3 +1,6 @@
 [submodule "user-interaction"]
 	path = user-interaction
 	url = git@github.com:jigypeper/user-interaction.git
+[submodule "bmi-calculator"]
+	path = bmi-calculator
+	url = git@github.com:jigypeper/bmi-calculator.git

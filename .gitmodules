@@ -4,3 +4,6 @@
 [submodule "bmi-calculator"]
 	path = bmi-calculator
 	url = git@github.com:jigypeper/bmi-calculator.git
+[submodule "file-read"]
+	path = file-read
+	url = git@github.com:jigypeper/file-read.git

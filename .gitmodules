@@ -7,3 +7,6 @@
 [submodule "file-read"]
 	path = file-read
 	url = git@github.com:jigypeper/file-read.git
+[submodule "gcf-rs"]
+	path = gcf-rs
+	url = git@github.com:jigypeper/gcf-rs.git
